@@ -1,0 +1,8 @@
+# Tools for setting up and building from source.
+# Fully Automated.
+
+# How to
+
+  git clone the repository or download as .zip
+
+  place in home directory and exicute . Repo_Sync.sh
